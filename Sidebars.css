@@ -1,0 +1,12 @@
+.sidenav {                    color: #000000; font-size: 24px; line-height: 28px; padding: 10px; border-radius: 18px; font-family: Georgia, serif; font-weight: bold; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;     }
+
+.sidenav {
+  height: 50%; /* Full-height: remove this if you want "auto" height */
+  width: 170px; /* Set the width of the sidebar */
+  position: fixed; /*Fixed Sidebar (stay in place on scroll) */
+  z-index: 2; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #FFC9D4;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
